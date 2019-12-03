@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "https://toastyboost.github.io/getorca",
+  "description": null,
+  "icons": {
+    "60": "/getorca/icons-56bd51cb9b11cfffca4e36ef02784251/firefox_app_60x60.png",
+    "128": "/getorca/icons-56bd51cb9b11cfffca4e36ef02784251/firefox_app_128x128.png",
+    "512": "/getorca/icons-56bd51cb9b11cfffca4e36ef02784251/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
