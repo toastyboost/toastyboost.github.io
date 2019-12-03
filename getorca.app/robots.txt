@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://getorca.app/sitemap.xml
-Host: https://getorca.app
