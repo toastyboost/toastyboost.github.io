@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://getorca.app/sitemap.xml
-Host: https://getorca.app
+Sitemap: https://toastyboost.github.io/getorca/sitemap.xml
+Host: https://toastyboost.github.io
