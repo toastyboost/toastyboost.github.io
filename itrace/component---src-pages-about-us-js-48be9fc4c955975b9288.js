@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"7Vu7":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),u=n("cJNW"),c=n("mrHZ"),r={title:"About us",desc:""};t.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(c.k,r),l.a.createElement(u.a,{name:"about"},l.a.createElement(c.d,null),l.a.createElement(c.m,null)))}}}]);
