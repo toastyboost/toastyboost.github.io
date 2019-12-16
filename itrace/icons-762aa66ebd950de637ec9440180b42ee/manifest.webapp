@@ -3,9 +3,9 @@
   "name": "https://localhost",
   "description": null,
   "icons": {
-    "60": "/icons-762aa66ebd950de637ec9440180b42ee/firefox_app_60x60.png",
-    "128": "/icons-762aa66ebd950de637ec9440180b42ee/firefox_app_128x128.png",
-    "512": "/icons-762aa66ebd950de637ec9440180b42ee/firefox_app_512x512.png"
+    "60": "/itrace/icons-762aa66ebd950de637ec9440180b42ee/firefox_app_60x60.png",
+    "128": "/itrace/icons-762aa66ebd950de637ec9440180b42ee/firefox_app_128x128.png",
+    "512": "/itrace/icons-762aa66ebd950de637ec9440180b42ee/firefox_app_512x512.png"
   },
   "developer": {
     "name": null,

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{311:function(e,t,n){"use strict";n.r(t);var a=n(0),l=n.n(a),u=n(310),c=n(92),r={title:"About us",desc:""};t.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(c.k,r),l.a.createElement(u.a,{name:"about"},l.a.createElement(c.d,null),l.a.createElement(c.m,null)))}}}]);
